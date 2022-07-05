@@ -1,0 +1,18 @@
+#+TITLE: README
+#+STARTUP: inlineimages nofold
+#+CAPTION: dataViz-smokingImpactOnInsuranceCharges
+#+NAME:   fig:Sdv-wpsww
+[[./render/dataViz-smokingImpactOnInsuranceCharges.png]]
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+- [[#prerequisites][Prerequisites]]
+
+* Description
+This data visualization aims to to emphasise the smoking impact of annual insurance medical charges of the client of ACME Insurance Inc. We could observe that smoking has a major impact but even more if it is combined with a body mass index (bmi) greater than 30.
+
+* Prerequisites
+- Unix system
+- python 3.8
+- pandas
+- plotly.express
